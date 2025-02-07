@@ -1,0 +1,26 @@
+Projekt del B
+Mål
+Fram till slutet av kursen kommer du att arbeta med Projektdel B enskilt eller tillsammans i grupp. Uppgift B1 och Uppgift B2 har 1 del vardera. Du kan välja att diskutera i grupp men kod individuellt. Projektet är individuellt och ska skickas in som din lösning.
+Skicka gärna in dina Visual Studio-lösningar, komprimerade till zip-format, så att jag enkelt kan UN komprimera dem och öppna i Visual Studio 2022 och kör koden. Kom ihåg att göra en Build -> Clean Solution innan du gör blixtlåset. Se deadline i  Kursplaneringen".
+Målet är att skapa en applikation i MAUI som presenterar den data som du förvärvat i Projektdel A. Genom att använda modell (och tjänst) separation av MVVM kan du enkelt kopiera din servicekod samt modellkoden från projektdel A som kommunicerar med en webbapi-tjänst med Json.
+För Uppdrag B1, Väder, har jag gett tips och en enkel mall i kod för dig inte fastna i triviala saker. För Uppdrag B2, Nyheter är det bara några grundläggande datatyper försedd.
+Betygskriterier för denna del av projektet:
+Godkänt (G) : Framgångsrik del av ”Projektdel B: Uppdrag B1”.
+Väl godkänt (VG): Framgångsrikt slutförande av ”Projekt del B: Uppdrag B1 och B2”
+Tjänsterna är Weather webapi service (https://openweathermap.org/) och News webapi
+tjänsten (https://newsapi.org/) är desamma för projektdel A.
+Obs: För väderwebb-API på gratisplanen har du 60 gratis webb-API-samtal per minut, och för nyhetswebb-api har du 100 samtal per dag. Liknar projekt del A, för nyheterna web-api tillhandahåller jag i mallen inbäddad exempeldata och kod som du kan använda för att testa och felsök innan du begär livedata.
+Sida 1
+Projektdel B: Uppgift B1
+Använd mallen, ADOP_Project_Part_B_Weather, som tillhandahålls i zip-format eller på GitHub https://github.com/martinlenart/ADOP_Project_Part_B_Weather.git
+Uppgift B1
+Gör en väderapplikation med hjälp av Shell-navigeringsmönstret som ger ett enkelt användargränssnitt till
+Väderservice av: - - - - -
+Lägger till flera städer till Shell-menyn
+Presentera väderprognosen för den stad som valts i menyn
+Väderprognos bör presenteras på prognossidan i en listvy
+Väderprognosen ska visas när sidan är synlig och uppdateras när
+klicka på en uppdateringsknapp
+Skriv ditt namn på Om-sidan som författare
+Se nedanstående skärmdumpar för att vägleda dig till nödvändig utförande för framgångsrik prestation.
+
